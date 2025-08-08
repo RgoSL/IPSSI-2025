@@ -1,2 +1,13 @@
-# IPSSI-2025
-Este repositório contém todas as atividades desenvolvidas por mim durante o ano letivo de 2025 na disciplina de "Internet, Protocolos e Segurança de Sistemas da Informação" *(IPSSI).*
+# ✉️ Tabelas MAC
+
+### Descrição
+
+> A primeira atividade que fiz no Cisco Packet Tracer. O ícone de envelope na branch serve como referência a essa representação de pacotinhos de dados sendo enviados.
+
+<br>
+
+<div align = center>
+   <img src= "https://github.com/RgoSL/IPSSI-2025/blob/Ativ01/SwitchEstrela%20Funcionando.gif" width = 500px alt="Gif da Atividade"/>
+</div>
+
+---
