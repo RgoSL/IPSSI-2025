@@ -15,5 +15,10 @@ A primeira atividade foi uma introdução à ferramenta Cisco Packet Tracer
 - ✉️ [Primeira Atividade](https://github.com/RgoSL/IPSSI-2025/tree/Ativ01) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
 <br>
 
+### 🛣️ Uso de Hubs
+A segunda atividade consistiu em um teste da diferença do transporte feito por um Switch e um Hub
+- 🛣️ [Segunda Atividade](https://github.com/RgoSL/IPSSI-2025/tree/Ativ02) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
+<br>
+
 
 ----
