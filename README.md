@@ -7,7 +7,7 @@
 <br>
 
 <div align = center>
-   <img src= "" width = 500px alt="Gif da Atividade"/>
+   <img src= "https://github.com/RgoSL/IPSSI-2025/blob/Ativ04/Rede%20da%20Atividade.png" width = 500px alt="Foto da Atividade"/>
 </div>
 
 ---
